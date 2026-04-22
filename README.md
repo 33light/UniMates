@@ -2,7 +2,7 @@
 
 **UniMates** is a student-only mobile application purpose-built to consolidate campus services into one cohesive platform. It provides a verified environment for university students to engage in community discussions, trade goods in a peer-to-peer marketplace, and recover lost items.
 
-## 🚀 Core Features
+## Core Features
 
 - **Community Hub**: Share posts, comment on discussions, like content, and announce campus events.
 - **P2P Marketplace**: A specialized marketplace supporting four transaction types: **Buy, Sell, Borrow, and Exchange**. Includes category filtering and wishlists.
@@ -10,7 +10,7 @@
 - **Verified Access**: Secure authentication using **Firebase** with mandatory university email verification.
 - **Messaging & Reviews**: Integrated direct messaging for secure communication and a review/rating system to build trust within the community.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: Flutter (Dart)
 - **Backend**: Django REST Framework (Python)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🏁 Getting Started
+## Getting Started
 
 ### Backend Setup (Django)
 
@@ -69,12 +69,12 @@
 
 ---
 
-## 📐 Architecture
+## Architecture
 
 UniMates follows a modern client-server architecture:
 - **Mobile Client**: Built with Flutter, using a service-layer pattern for clean separation of concerns.
 - **REST API**: A robust Django backend organized into modular applications (Users, Community, Marketplace, Messaging, Lost & Found, Reviews).
 - **Security**: Every API request is verified server-side using Firebase ID tokens.
 
-## 📄 License
+## License
 This project was developed as a Computer Science Final Project at the University of Westminster.
