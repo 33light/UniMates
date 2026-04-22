@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "post_1",
+      "userId": "user_2",
+      "authorName": "Ali Ahmed",
+      "authorImage": "https://i.pravatar.cc/150?img=1",
+      "content": "Looking for study group for CS101 Algorithms. Anyone interested?",
+      "imageUrls": [],
+      "likes": 24,
+      "comments": 5,
+      "createdAt": "2026-01-25T10:30:00Z",
+      "isEvent": false
+    },
+    {
+      "id": "post_2",
+      "userId": "user_3",
+      "authorName": "Fatima Khan",
+      "authorImage": "https://i.pravatar.cc/150?img=2",
+      "content": "Just finished my finals! Time to celebrate! 🎉",
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=500"
+      ],
+      "likes": 156,
+      "comments": 23,
+      "createdAt": "2026-01-24T15:45:00Z",
+      "isEvent": false
+    },
+    {
+      "id": "post_3",
+      "userId": "user_4",
+      "authorName": "Hassan Malik",
+      "authorImage": "https://i.pravatar.cc/150?img=3",
+      "content": "Tech Talk: Introduction to Machine Learning - This Friday 5 PM @ Library Hall",
+      "imageUrls": [],
+      "likes": 87,
+      "comments": 12,
+      "createdAt": "2026-01-23T09:00:00Z",
+      "isEvent": true,
+      "eventDate": "2026-01-31T17:00:00Z",
+      "eventLocation": "Library Hall"
+    },
+    {
+      "id": "post_4",
+      "userId": "user_5",
+      "authorName": "Aisha Patel",
+      "authorImage": "https://i.pravatar.cc/150?img=4",
+      "content": "Does anyone have notes from the Economics class last week? Missed it due to medical reasons.",
+      "imageUrls": [],
+      "likes": 12,
+      "comments": 8,
+      "createdAt": "2026-01-25T08:20:00Z",
+      "isEvent": false
+    }
+  ],
+  "comments": [
+    {
+      "id": "comment_1",
+      "postId": "post_1",
+      "userId": "user_6",
+      "authorName": "Omar Farooq",
+      "authorImage": "https://i.pravatar.cc/150?img=5",
+      "content": "Count me in! I need help with sorting algorithms",
+      "createdAt": "2026-01-25T10:45:00Z"
+    },
+    {
+      "id": "comment_2",
+      "postId": "post_1",
+      "userId": "user_7",
+      "authorName": "Zainab Hassan",
+      "authorImage": "https://i.pravatar.cc/150?img=6",
+      "content": "Same here! Let's form a group. When can you meet?",
+      "createdAt": "2026-01-25T11:00:00Z"
+    }
+  ]
+}

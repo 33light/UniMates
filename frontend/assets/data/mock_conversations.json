@@ -1,0 +1,38 @@
+[
+  {
+    "id": "conv_001",
+    "userId1": "user_001",
+    "userId2": "user_002",
+    "otherUserId": "user_002",
+    "otherUserName": "John Doe",
+    "otherUserImage": "https://ui-avatars.com/api/?name=John+Doe",
+    "lastMessage": "$450. Can you pick it up from the library?",
+    "lastMessageTime": "2026-02-04T10:37:00Z",
+    "unreadCount": 0,
+    "lastSenderId": "user_001"
+  },
+  {
+    "id": "conv_002",
+    "userId1": "user_001",
+    "userId2": "user_003",
+    "otherUserId": "user_003",
+    "otherUserName": "Emily Chen",
+    "otherUserImage": "https://ui-avatars.com/api/?name=Emily+Chen",
+    "lastMessage": "No problem! Feel free to keep it for the semester.",
+    "lastMessageTime": "2026-02-03T14:22:00Z",
+    "unreadCount": 0,
+    "lastSenderId": "user_001"
+  },
+  {
+    "id": "conv_003",
+    "userId1": "user_001",
+    "userId2": "user_004",
+    "otherUserId": "user_004",
+    "otherUserName": "Michael Brown",
+    "otherUserImage": "https://ui-avatars.com/api/?name=Michael+Brown",
+    "lastMessage": "I'm free tomorrow afternoon in the library.",
+    "lastMessageTime": "2026-02-04T09:16:00Z",
+    "unreadCount": 2,
+    "lastSenderId": "user_004"
+  }
+]

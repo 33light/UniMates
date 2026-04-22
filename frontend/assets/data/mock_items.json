@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": "item_1",
+      "userId": "user_2",
+      "sellerName": "Ali Ahmed",
+      "sellerImage": "https://i.pravatar.cc/150?img=1",
+      "title": "Used Laptop - Dell XPS 13",
+      "description": "Dell XPS 13 in excellent condition. 8GB RAM, 512GB SSD. Used for only 6 months. No issues.",
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500"
+      ],
+      "category": "Electronics",
+      "condition": "Like New",
+      "type": "sell",
+      "exchangeTerms": null,
+      "createdAt": "2026-01-20T14:30:00Z",
+      "isSold": false,
+      "rating": 4.8,
+      "reviewsCount": 12
+    },
+    {
+      "id": "item_2",
+      "userId": "user_3",
+      "sellerName": "Fatima Khan",
+      "sellerImage": "https://i.pravatar.cc/150?img=2",
+      "title": "Programming Books Bundle",
+      "description": "Clean Code, Design Patterns, Refactoring - all three books together. Perfect condition.",
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1507842217343-583f20270319?w=500"
+      ],
+      "category": "Books",
+      "condition": "Good",
+      "type": "sell",
+      "price": 1500,
+      "exchangeTerms": null,
+      "createdAt": "2026-01-22T11:00:00Z",
+      "isSold": false,
+      "rating": 5.0,
+      "reviewsCount": 5
+    },
+    {
+      "id": "item_3",
+      "userId": "user_4",
+      "sellerName": "Hassan Malik",
+      "sellerImage": "https://i.pravatar.cc/150?img=3",
+      "title": "Looking to Borrow - Calculus Textbook",
+      "description": "Need to borrow Calculus by Stewart for one semester. Will return in good condition.",
+      "imageUrls": [],
+      "category": "Books",
+      "condition": null,
+      "type": "borrow",
+      "price": null,
+      "exchangeTerms": "Will return after exams",
+      "createdAt": "2026-01-24T09:15:00Z",
+      "isSold": false,
+      "rating": 4.5,
+      "reviewsCount": 3
+    },
+    {
+      "id": "item_4",
+      "userId": "user_5",
+      "sellerName": "Aisha Patel",
+      "sellerImage": "https://i.pravatar.cc/150?img=4",
+      "title": "Desk Chair - Ergonomic",
+      "description": "Comfortable ergonomic chair, good for studying. Slight wear but fully functional.",
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=500"
+      ],
+      "category": "Furniture",
+      "condition": "Good",
+      "type": "sell",
+      "price": 3500,
+      "exchangeTerms": null,
+      "createdAt": "2026-01-23T16:45:00Z",
+      "isSold": false,
+      "rating": 4.7,
+      "reviewsCount": 8
+    },
+    {
+      "id": "item_5",
+      "userId": "user_6",
+      "sellerName": "Omar Farooq",
+      "sellerImage": "https://i.pravatar.cc/150?img=5",
+      "title": "Want to Exchange - Micro Karaoke for Speaker",
+      "description": "Have a Micro Karaoke machine, looking for a Bluetooth speaker. Open to exchange.",
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+      ],
+      "category": "Electronics",
+      "condition": "Good",
+      "type": "exchange",
+      "price": null,
+      "exchangeTerms": "Looking for Bluetooth speaker with good bass",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "isSold": false,
+      "rating": 4.6,
+      "reviewsCount": 2
+    }
+  ]
+}

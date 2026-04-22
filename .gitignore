@@ -1,0 +1,47 @@
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+db.sqlite3
+/media/
+/static/
+venv/
+.venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+*firebase-adminsdk*.json
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+*.log
+doc/api/
+ios/.generated/
+android/.gradle/
+android/local.properties
+android/key.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr

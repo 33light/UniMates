@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "id": "review_1",
+      "reviewerId": "user_3",
+      "reviewerName": "Fatima Khan",
+      "reviewerImage": "https://i.pravatar.cc/150?img=2",
+      "targetUserId": "user_2",
+      "rating": 5.0,
+      "comment": "Great seller! The laptop was exactly as described and the transaction was smooth. Highly recommend!",
+      "createdAt": "2026-01-15T10:30:00Z"
+    },
+    {
+      "id": "review_2",
+      "reviewerId": "user_4",
+      "reviewerName": "Hassan Malik",
+      "reviewerImage": "https://i.pravatar.cc/150?img=3",
+      "targetUserId": "user_2",
+      "rating": 4.0,
+      "comment": "Good experience overall. Item was in good condition. Communication was quick and reliable.",
+      "createdAt": "2026-01-20T14:00:00Z"
+    },
+    {
+      "id": "review_3",
+      "reviewerId": "user_5",
+      "reviewerName": "Aisha Patel",
+      "reviewerImage": "https://i.pravatar.cc/150?img=4",
+      "targetUserId": "user_3",
+      "rating": 5.0,
+      "comment": "Amazing person to deal with. Very honest and the item was in perfect condition. Would buy again!",
+      "createdAt": "2026-02-01T09:00:00Z"
+    },
+    {
+      "id": "review_4",
+      "reviewerId": "user_6",
+      "reviewerName": "Omar Farooq",
+      "reviewerImage": "https://i.pravatar.cc/150?img=5",
+      "targetUserId": "user_3",
+      "rating": 4.5,
+      "comment": "Trustworthy and punctual. The textbooks were in great shape. Smooth handover.",
+      "createdAt": "2026-02-10T11:30:00Z"
+    },
+    {
+      "id": "review_5",
+      "reviewerId": "user_2",
+      "reviewerName": "Ali Ahmed",
+      "reviewerImage": "https://i.pravatar.cc/150?img=1",
+      "targetUserId": "user_4",
+      "rating": 3.5,
+      "comment": "Decent transaction. Item was okay but not exactly as described. Communication could be improved.",
+      "createdAt": "2026-02-14T16:00:00Z"
+    },
+    {
+      "id": "review_6",
+      "reviewerId": "user_3",
+      "reviewerName": "Fatima Khan",
+      "reviewerImage": "https://i.pravatar.cc/150?img=2",
+      "targetUserId": "user_5",
+      "rating": 5.0,
+      "comment": "Wonderful seller! Super responsive and the furniture was in perfect condition. Really easy to deal with.",
+      "createdAt": "2026-02-20T13:00:00Z"
+    }
+  ]
+}

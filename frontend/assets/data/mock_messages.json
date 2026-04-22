@@ -1,0 +1,82 @@
+[
+  {
+    "id": "msg_001",
+    "conversationId": "conv_001",
+    "senderId": "user_002",
+    "senderName": "John Doe",
+    "senderImage": "https://ui-avatars.com/api/?name=John+Doe",
+    "content": "Hey, is this iPhone 13 still available?",
+    "timestamp": "2026-02-04T10:30:00Z",
+    "isRead": true
+  },
+  {
+    "id": "msg_002",
+    "conversationId": "conv_001",
+    "senderId": "user_001",
+    "senderName": "Alice Johnson",
+    "senderImage": "https://ui-avatars.com/api/?name=Alice+Johnson",
+    "content": "Yes, it's in perfect condition. No scratches.",
+    "timestamp": "2026-02-04T10:32:00Z",
+    "isRead": true
+  },
+  {
+    "id": "msg_003",
+    "conversationId": "conv_001",
+    "senderId": "user_002",
+    "senderName": "John Doe",
+    "senderImage": "https://ui-avatars.com/api/?name=John+Doe",
+    "content": "Great! How much are you asking?",
+    "timestamp": "2026-02-04T10:35:00Z",
+    "isRead": true
+  },
+  {
+    "id": "msg_004",
+    "conversationId": "conv_001",
+    "senderId": "user_001",
+    "senderName": "Alice Johnson",
+    "senderImage": "https://ui-avatars.com/api/?name=Alice+Johnson",
+    "content": "$450. Can you pick it up from the library?",
+    "timestamp": "2026-02-04T10:37:00Z",
+    "isRead": true
+  },
+  {
+    "id": "msg_005",
+    "conversationId": "conv_002",
+    "senderId": "user_003",
+    "senderName": "Emily Chen",
+    "senderImage": "https://ui-avatars.com/api/?name=Emily+Chen",
+    "content": "Thanks for the textbook! It's really helpful.",
+    "timestamp": "2026-02-03T14:20:00Z",
+    "isRead": true
+  },
+  {
+    "id": "msg_006",
+    "conversationId": "conv_002",
+    "senderId": "user_001",
+    "senderName": "Alice Johnson",
+    "senderImage": "https://ui-avatars.com/api/?name=Alice+Johnson",
+    "content": "No problem! Feel free to keep it for the semester.",
+    "timestamp": "2026-02-03T14:22:00Z",
+    "isRead": true
+  },
+  {
+    "id": "msg_007",
+    "conversationId": "conv_003",
+    "senderId": "user_004",
+    "senderName": "Michael Brown",
+    "senderImage": "https://ui-avatars.com/api/?name=Michael+Brown",
+    "content": "Hey! Are you interested in studying together for the exam?",
+    "timestamp": "2026-02-04T09:15:00Z",
+    "isRead": false
+  },
+  {
+    "id": "msg_008",
+    "conversationId": "conv_003",
+    "senderId": "user_004",
+    "senderName": "Michael Brown",
+    "senderImage": "https://ui-avatars.com/api/?name=Michael+Brown",
+    "content": "I'm free tomorrow afternoon in the library.",
+    "timestamp": "2026-02-04T09:16:00Z",
+    "isRead": false
+  }
+]

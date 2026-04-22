@@ -1,0 +1,11 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14
+django-cors-headers
+Pillow
+psycopg2-binary
+django-filter
+pytest
+pytest-django
+pytest-cov
+firebase-admin>=6.0
+python-dotenv

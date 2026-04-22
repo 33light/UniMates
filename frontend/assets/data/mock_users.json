@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "user_2",
+      "name": "Ali Ahmed",
+      "username": "ali_ahmed",
+      "email": "ali.ahmed@university.edu",
+      "profileImageUrl": "https://i.pravatar.cc/150?img=1",
+      "university": "LUMS",
+      "isVerified": true,
+      "joinDate": "2024-09-01T00:00:00Z",
+      "bio": "CS student, tech enthusiast. Always looking for study buddies.",
+      "rating": 4.8,
+      "reviewsCount": 12
+    },
+    {
+      "id": "user_3",
+      "name": "Fatima Khan",
+      "username": "fatima_k",
+      "email": "fatima.khan@university.edu",
+      "profileImageUrl": "https://i.pravatar.cc/150?img=2",
+      "university": "FAST-NUCES",
+      "isVerified": true,
+      "joinDate": "2024-09-01T00:00:00Z",
+      "bio": "Final year student. Passionate about sustainable living and coding.",
+      "rating": 5.0,
+      "reviewsCount": 5
+    },
+    {
+      "id": "user_4",
+      "name": "Hassan Malik",
+      "username": "hassan_m",
+      "email": "hassan.malik@university.edu",
+      "profileImageUrl": "https://i.pravatar.cc/150?img=3",
+      "university": "LUMS",
+      "isVerified": false,
+      "joinDate": "2025-02-01T00:00:00Z",
+      "bio": "Sophomore in Electrical Engineering. Coffee addict.",
+      "rating": 4.5,
+      "reviewsCount": 3
+    },
+    {
+      "id": "user_5",
+      "name": "Aisha Patel",
+      "username": "aisha_p",
+      "email": "aisha.patel@university.edu",
+      "profileImageUrl": "https://i.pravatar.cc/150?img=4",
+      "university": "IBA Karachi",
+      "isVerified": false,
+      "joinDate": "2025-02-01T00:00:00Z",
+      "bio": "BBA student. Love economics and cats.",
+      "rating": 4.7,
+      "reviewsCount": 8
+    },
+    {
+      "id": "user_6",
+      "name": "Omar Farooq",
+      "username": "omar_f",
+      "email": "omar.farooq@university.edu",
+      "profileImageUrl": "https://i.pravatar.cc/150?img=5",
+      "university": "FAST-NUCES",
+      "isVerified": true,
+      "joinDate": "2024-09-01T00:00:00Z",
+      "bio": "DevOps engineer in training. Open source contributor.",
+      "rating": 4.6,
+      "reviewsCount": 2
+    }
+  ]
+}
