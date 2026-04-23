@@ -386,7 +386,7 @@ class _ListingCard extends StatelessWidget {
                       const SizedBox(height: 4),
                       if (listing.price != null)
                         Text(
-                          '₹${listing.price?.toStringAsFixed(0)}',
+                          '£${listing.price?.toStringAsFixed(0)}',
                           style: Theme.of(context)
                               .textTheme
                               .titleSmall
