@@ -14,7 +14,7 @@ class MarketplaceItemCard extends StatelessWidget {
 
   String _formatPrice(double? price) {
     if (price == null) return 'Not priced';
-    final formatter = NumberFormat.currency(symbol: '\$', decimalDigits: 0);
+    final formatter = NumberFormat.currency(symbol: '£', decimalDigits: 0);
     return formatter.format(price);
   }
 
