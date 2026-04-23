@@ -19,7 +19,7 @@ class MockApiService {
   // Android emulator          -> 10.0.2.2
   // iOS simulator / web / Windows desktop -> 127.0.0.1
   // Physical Android/iOS device -> your PC's local IP (e.g. 192.168.1.5)
-  static const String _base = 'http://10.0.2.2:8000/api/v1';
+  static const String _base = 'http://welcomemate.pythonanywhere.com/api/v1';
 
   // In-memory wishlist for instant synchronous UI feedback
   final Set<String> _wishlistedItemIds = {};
