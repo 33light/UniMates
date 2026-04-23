@@ -338,13 +338,13 @@ class _CreateListingScreenState extends State<CreateListingScreen> {
                             controller: _priceController,
                             decoration: InputDecoration(
                               labelText: _selectedType == ListingType.sell
-                                  ? 'Asking Price (₹) *'
-                                  : 'Budget (₹) *',
+                                  ? 'Asking Price (£) *'
+                                  : 'Budget (£) *',
                               hintText: 'E.g., 5000',
                               border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(8),
                               ),
-                              prefixIcon: const Icon(Icons.currency_rupee),
+                              prefixIcon: const Icon(Icons.currency_pound),
                             ),
                             keyboardType: TextInputType.number,
                             validator: (value) {
