@@ -36,7 +36,7 @@ class _ItemDetailScreenState extends State<ItemDetailScreen> {
 
   String _formatPrice(double? price) {
     if (price == null) return 'Not specified';
-    final formatter = NumberFormat.currency(symbol: '\$', decimalDigits: 0);
+    final formatter = NumberFormat.currency(symbol: '£', decimalDigits: 0);
     return formatter.format(price);
   }
 
